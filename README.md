@@ -1,3 +1,15 @@
+# Airbnb Clone
+
+This is an Airbnb clone website built using ReactJs and hosted on Github pages. 
+Link to the website => https://pournami09.github.io/Airbnb-Clone/
+
+# Languages used
+
+- HTML
+- CSS
+- Javascript
+- ReactJs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
